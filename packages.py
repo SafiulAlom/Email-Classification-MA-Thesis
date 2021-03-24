@@ -1,5 +1,4 @@
 #Diese Datei importiert alle notwendige Paketen und Dateien
-
 import datetime
 import pandas as pd
 import numpy as np
