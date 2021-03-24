@@ -1,6 +1,5 @@
 #Diese Datei listet alle Parameter-Werte, 
 #die zur Erstellung der ML/DL-Modelle verwendet werden
-
 import os
 os.chdir('/home/safiul/email-classification')
 import Email_Classification.Functions.Functions as fn
