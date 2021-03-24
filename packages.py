@@ -43,9 +43,6 @@ import scipy.sparse as sp
 from gensim.models.fasttext import load_facebook_model, smart_open
 import gensim
 from gensim.sklearn_api import TfIdfTransformer, LsiTransformer
-
-
-
 import tensorflow as tf
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.layers import Dense, Dropout, Activation,\
